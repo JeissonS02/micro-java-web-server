@@ -242,11 +242,11 @@ http://ec2-98-92-252-214.compute-1.amazonaws.com:35000/square?n=9
 
 Through this project we explored:
 
--   HTTP server implementation in Java\
--   Reflection and annotation processing\
--   Basic IoC container design\
--   Static file serving\
--   REST endpoint creation\
+-   HTTP server implementation in Java
+-   Reflection and annotation processing
+-   Basic IoC container design
+-   Static file serving
+-   REST endpoint creation
 -   Cloud deployment with AWS EC2
 
 ------------------------------------------------------------------------
@@ -254,4 +254,5 @@ Through this project we explored:
 ## 👨‍💻 Author
 
 [![GitHub](https://img.shields.io/badge/GitHub-JeissonS02-181717?style=for-the-badge&logo=github)](https://github.com/JeissonS02)
+
 
